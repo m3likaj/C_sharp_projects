@@ -7,7 +7,8 @@ using OOP.EntityLayer.Concrete;
 
 namespace OOP.DataAccessLayer.Abstract
 {
-    internal interface IAdminDal:IGenericDal<Admin>
+    public interface IAdminDal:IGenericDal<Admin>
     {
+
     }
 }

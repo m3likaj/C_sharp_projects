@@ -5,10 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using OOP.EntityLayer.Concrete;
 
-namespace OOP.DataAccessLayer.Abstract
+namespace OOP.BusinessLayer.Abstract
 {
-    public interface IProductDal: IGenericDal<Product>
+    public interface IOrderService: IGenericService<Order>
     {
-        List<object> GetProductsWithCategory();
     }
 }

@@ -7,7 +7,7 @@ using OOP.EntityLayer.Concrete;
 
 namespace OOP.DataAccessLayer.Abstract
 {
-    internal interface ICustomerDal: IGenericDal<Customer>
+    public interface ICustomerDal: IGenericDal<Customer>
     {
     }
 }

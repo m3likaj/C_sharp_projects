@@ -7,7 +7,8 @@ using OOP.EntityLayer.Concrete;
 
 namespace OOP.DataAccessLayer.Abstract
 {
-    internal interface IOrderDal:IGenericDal<Order>
+    public interface IOrderDal:IGenericDal<Order>
     {
+
     }
 }

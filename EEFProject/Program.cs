@@ -16,7 +16,7 @@ namespace EEFProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new GuideProcessForm());
+            Application.Run(new FrmStatistics());
         }
     }
 }
