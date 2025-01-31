@@ -63,7 +63,7 @@ namespace OOP.PresentationLayer
         {
             int id = int.Parse(txtID.Text);
             var values = _productService.TGetById(id);
-            dataGridView1.DataSource= values;   
+            dataGridView1.DataSource = new List<object> { values };
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)

@@ -70,7 +70,7 @@ namespace OOP.PresentationLayer
         {
             int id = int.Parse(txtID.Text);
             var values = _categoryService.TGetById(id);
-            dataGridView1.DataSource = values;
+            dataGridView1.DataSource = new List<object> { values };
         }
 
         private void FrmCategory_Load(object sender, EventArgs e)
