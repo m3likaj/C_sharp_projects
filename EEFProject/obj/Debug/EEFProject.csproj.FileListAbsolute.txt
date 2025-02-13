@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\OOP\EEFProject\obj\Debug\EEFProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OOP\EEFProject\obj\Debug\EEFProject.GuideProcessForm.resources
+C:\Users\user\source\repos\OOP\EEFProject\obj\Debug\EEFProject.Properties.Resources.resources
+C:\Users\user\source\repos\OOP\EEFProject\obj\Debug\EEFProject.csproj.GenerateResource.cache
+C:\Users\user\source\repos\OOP\EEFProject\obj\Debug\EEFProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP\EEFProject\bin\Debug\EEFProject.exe.config
+C:\Users\user\source\repos\OOP\EEFProject\bin\Debug\EEFProject.exe
+C:\Users\user\source\repos\OOP\EEFProject\bin\Debug\EEFProject.pdb
+C:\Users\user\source\repos\OOP\EEFProject\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\OOP\EEFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\OOP\EEFProject\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\OOP\EEFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\OOP\EEFProject\obj\Debug\EEFProject.csproj.Up2Date
+C:\Users\user\source\repos\OOP\EEFProject\obj\Debug\EEFProject.exe
+C:\Users\user\source\repos\OOP\EEFProject\obj\Debug\EEFProject.pdb
+C:\Users\user\source\repos\OOP\EEFProject\obj\Debug\EEFProject.FrmLocations.resources
+C:\Users\user\source\repos\OOP\EEFProject\obj\Debug\EEFProject.FrmStatistics.resources

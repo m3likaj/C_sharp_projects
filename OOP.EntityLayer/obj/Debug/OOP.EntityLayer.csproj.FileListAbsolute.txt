@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\bin\Debug\OOP.EntityLayer.dll.config
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\bin\Debug\OOP.EntityLayer.dll
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\bin\Debug\OOP.EntityLayer.pdb
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\obj\Debug\OOP.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\obj\Debug\OOP.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\obj\Debug\OOP.Enti.E020B4C0.Up2Date
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\obj\Debug\OOP.EntityLayer.dll
+C:\Users\user\source\repos\OOP\OOP.EntityLayer\obj\Debug\OOP.EntityLayer.pdb

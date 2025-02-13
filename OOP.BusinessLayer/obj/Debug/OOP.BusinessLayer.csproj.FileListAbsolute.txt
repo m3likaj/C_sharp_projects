@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\bin\Debug\OOP.BusinessLayer.dll
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\bin\Debug\OOP.BusinessLayer.pdb
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\bin\Debug\OOP.DataAccessLayer.dll
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\bin\Debug\OOP.EntityLayer.dll
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\bin\Debug\OOP.DataAccessLayer.pdb
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\bin\Debug\OOP.DataAccessLayer.dll.config
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\bin\Debug\OOP.EntityLayer.pdb
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\bin\Debug\OOP.EntityLayer.dll.config
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\obj\Debug\OOP.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\obj\Debug\OOP.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\obj\Debug\OOP.Busi.1193C8F0.Up2Date
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\obj\Debug\OOP.BusinessLayer.dll
+C:\Users\user\source\repos\OOP\OOP.BusinessLayer\obj\Debug\OOP.BusinessLayer.pdb

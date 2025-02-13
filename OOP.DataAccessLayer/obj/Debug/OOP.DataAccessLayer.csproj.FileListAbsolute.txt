@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\bin\Debug\OOP.DataAccessLayer.dll.config
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\bin\Debug\OOP.DataAccessLayer.dll
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\bin\Debug\OOP.DataAccessLayer.pdb
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\bin\Debug\OOP.EntityLayer.dll
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\bin\Debug\OOP.EntityLayer.pdb
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\bin\Debug\OOP.EntityLayer.dll.config
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\obj\Debug\OOP.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\obj\Debug\OOP.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\obj\Debug\OOP.Data.BC915D17.Up2Date
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\obj\Debug\OOP.DataAccessLayer.dll
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\obj\Debug\OOP.DataAccessLayer.pdb
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\obj\Debug\OOP.DataAccessLayer.Migrations.mig1.resources
+C:\Users\user\source\repos\OOP\OOP.DataAccessLayer\obj\Debug\OOP.DataAccessLayer.csproj.GenerateResource.cache
